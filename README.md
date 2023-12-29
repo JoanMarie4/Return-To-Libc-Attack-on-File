@@ -11,3 +11,5 @@ ret2libc2, ret2libcASLR, ret2libcCFI are variations of the ret2libc executable w
 attackASLR.py is the attack exploit file used for the ret2libcASLR executable
 
 gadgetsASLR.txt contains the gadgets for the ret2libcASLR file
+
+output.txt contains the outputs of repeatedly running attackASLR.py in an attempt to brute force ASLR
